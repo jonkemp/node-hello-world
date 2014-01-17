@@ -1,6 +1,7 @@
 {
   "name": "node-hello-world",
   "version": "0.0.1",
+  "description": "Start a server with Express. Hello World example for Node.js.",
   "dependencies":{
     "express":""
   }
